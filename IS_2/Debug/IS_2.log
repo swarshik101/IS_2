@@ -1,0 +1,11 @@
+﻿  IS_2.cpp
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(88,78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(88,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(89,76): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(89,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(91,96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(91,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(92,94): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(92,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\vpvra\OneDrive\Desktop\IS_2\IS_2\IS_2.cpp(114,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  IS_2.vcxproj -> C:\Users\vpvra\OneDrive\Desktop\IS_2\Debug\IS_2.exe
